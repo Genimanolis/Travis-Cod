@@ -23,5 +23,5 @@ upKey =	keyboard_check(vk_up);
 
 	// move the player
 	x += xspd;
-	y += yspd;
+	y += yspd; 
 
