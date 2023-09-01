@@ -1,4 +1,4 @@
 moveDir = 0;
-moveSpd = 8;
+moveSpd = 1;
 xspd = 0;
 yspd = 0;
