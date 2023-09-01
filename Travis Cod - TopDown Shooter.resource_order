@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sPufferfish","order":15,"path":"sprites/sPufferfish/sPufferfish.yy",},
+    {"name":"oEel","order":20,"path":"objects/oEel/oEel.yy",},
+    {"name":"oPinkfish","order":18,"path":"objects/oPinkfish/oPinkfish.yy",},
+    {"name":"oFisk","order":12,"path":"objects/oFisk/oFisk.yy",},
+    {"name":"sFisk","order":11,"path":"sprites/sFisk/sFisk.yy",},
+    {"name":"oPufferfish","order":16,"path":"objects/oPufferfish/oPufferfish.yy",},
+    {"name":"oPlayer","order":22,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sPlayer","order":21,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sEel","order":19,"path":"sprites/sEel/sEel.yy",},
+    {"name":"sSwordfish","order":13,"path":"sprites/sSwordfish/sSwordfish.yy",},
+    {"name":"sPinkFish","order":17,"path":"sprites/sPinkFish/sPinkFish.yy",},
+    {"name":"oSwordfish","order":14,"path":"objects/oSwordfish/oSwordfish.yy",},
+  ],
+}
