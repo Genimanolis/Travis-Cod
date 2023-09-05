@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oFisk",
+  "name": "oStorePer",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFisk",
-    "path": "sprites/sFisk/sFisk.yy",
+    "name": "sStorePer",
+    "path": "sprites/sStorePer/sStorePer.yy",
   },
   "spriteMaskId": null,
   "visible": true,
