@@ -27,7 +27,7 @@ upKey =	keyboard_check(vk_up);
 	{
 		xspd = 0;
 	}
-	if place_empty(x, y + yspd, oWall)
+	if place_meeting(x, y + yspd, oWall)
 	{
 		yspd = 0;
 	}

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sCrab",
+  "name": "sCrab1",
   "bbox_bottom": 125,
   "bbox_left": 0,
   "bbox_right": 171,
@@ -33,7 +33,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sCrab",
+    "name": "sCrab1",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4bbcba1d-c3b8-4ed2-80ef-4f4d4b141425","path":"sprites/sCrab/sCrab.yy",},},},"Disabled":false,"id":"3667ee25-4ae7-47a5-9dc4-655359371494","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"887f8829-8f9b-4872-8379-eddb34cbb7ba","path":"sprites/sCrab/sCrab.yy",},},},"Disabled":false,"id":"8d9a20d9-7a92-4ef4-98ab-e123a1f7c77c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4bbcba1d-c3b8-4ed2-80ef-4f4d4b141425","path":"sprites/sCrab1/sCrab1.yy",},},},"Disabled":false,"id":"3667ee25-4ae7-47a5-9dc4-655359371494","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"887f8829-8f9b-4872-8379-eddb34cbb7ba","path":"sprites/sCrab1/sCrab1.yy",},},},"Disabled":false,"id":"8d9a20d9-7a92-4ef4-98ab-e123a1f7c77c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
