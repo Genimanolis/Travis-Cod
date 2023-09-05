@@ -24,6 +24,7 @@
     {"id":{"name":"oEel","path":"objects/oEel/oEel.yy",},},
     {"id":{"name":"oStorePer","path":"objects/oStorePer/oStorePer.yy",},},
     {"id":{"name":"oGubbi","path":"objects/oGubbi/oGubbi.yy",},},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"sGubbi","path":"sprites/sGubbi/sGubbi.yy",},},
     {"id":{"name":"oPufferfish","path":"objects/oPufferfish/oPufferfish.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -31,7 +32,9 @@
     {"id":{"name":"sEel","path":"sprites/sEel/sEel.yy",},},
     {"id":{"name":"sSwordfish","path":"sprites/sSwordfish/sSwordfish.yy",},},
     {"id":{"name":"sStorePer","path":"sprites/sStorePer/sStorePer.yy",},},
+    {"id":{"name":"sCrab","path":"sprites/sCrab/sCrab.yy",},},
     {"id":{"name":"oSwordfish","path":"objects/oSwordfish/oSwordfish.yy",},},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

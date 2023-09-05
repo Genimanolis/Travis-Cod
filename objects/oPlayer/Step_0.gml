@@ -21,7 +21,18 @@ upKey =	keyboard_check(vk_up);
 	xspd = lengthdir_x( _spd, moveDir);
 	yspd = lengthdir_y( _spd, moveDir);
 
+	
+	//collision
+	if place_meeting(x + xspd, y, oWall)
+	{
+		xspd = 0;
+	}
+	if place_empty(x, y + yspd, oWall)
+	{
+		yspd = 0;
+	}
+	
+	
 	// move the player
 	x += xspd;
 	y += yspd; 
-

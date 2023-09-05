@@ -7,6 +7,7 @@
     {"name":"oEel","order":20,"path":"objects/oEel/oEel.yy",},
     {"name":"oStorePer","order":18,"path":"objects/oStorePer/oStorePer.yy",},
     {"name":"oGubbi","order":12,"path":"objects/oGubbi/oGubbi.yy",},
+    {"name":"oWall","order":25,"path":"objects/oWall/oWall.yy",},
     {"name":"sGubbi","order":11,"path":"sprites/sGubbi/sGubbi.yy",},
     {"name":"oPufferfish","order":16,"path":"objects/oPufferfish/oPufferfish.yy",},
     {"name":"oPlayer","order":22,"path":"objects/oPlayer/oPlayer.yy",},
@@ -14,6 +15,8 @@
     {"name":"sEel","order":19,"path":"sprites/sEel/sEel.yy",},
     {"name":"sSwordfish","order":13,"path":"sprites/sSwordfish/sSwordfish.yy",},
     {"name":"sStorePer","order":17,"path":"sprites/sStorePer/sStorePer.yy",},
+    {"name":"sCrab","order":23,"path":"sprites/sCrab/sCrab.yy",},
     {"name":"oSwordfish","order":14,"path":"objects/oSwordfish/oSwordfish.yy",},
+    {"name":"sWall","order":24,"path":"sprites/sWall/sWall.yy",},
   ],
 }
