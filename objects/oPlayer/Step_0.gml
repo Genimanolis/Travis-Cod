@@ -12,7 +12,7 @@ upKey =	keyboard_check(vk_up);
 	var _vertKey = downKey - upKey;
 	moveDir = point_direction(0, 0, _horizKey, _vertKey);
 	
-	// get the x & y speeds
+	// get the x & y speeds!
 	var _spd = 0;
 	var _inputLevel = point_distance(0, 0, _horizKey, _vertKey);
 	_inputLevel = clamp( _inputLevel, 0, 1);
