@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPinkfish",
+  "name": "oGubbi",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPinkFish",
-    "path": "sprites/sPinkFish/sPinkFish.yy",
+    "name": "sGubbi",
+    "path": "sprites/sGubbi/sGubbi.yy",
   },
   "spriteMaskId": null,
   "visible": true,

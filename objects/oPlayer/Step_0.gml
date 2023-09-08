@@ -12,7 +12,7 @@ upKey =	keyboard_check(vk_up);
 	var _vertKey = downKey - upKey;
 	moveDir = point_direction(0, 0, _horizKey, _vertKey);
 	
-	// get the x & y speeds
+	// get the x & y speeds!
 	var _spd = 0;
 	var _inputLevel = point_distance(0, 0, _horizKey, _vertKey);
 	_inputLevel = clamp( _inputLevel, 0, 1);
@@ -21,7 +21,18 @@ upKey =	keyboard_check(vk_up);
 	xspd = lengthdir_x( _spd, moveDir);
 	yspd = lengthdir_y( _spd, moveDir);
 
+	
+	//collision
+	if place_meeting(x + xspd, y, oWall)
+	{
+		xspd = 0;
+	}
+	if place_meeting(x, y + yspd, oWall)
+	{
+		yspd = 0;
+	}
+	
+	
 	// move the player
 	x += xspd;
 	y += yspd; 
-
