@@ -13,7 +13,7 @@ yspd = 0;
 	 
 	 face = 2;
 	 sprite[0] = sPlayerRight;
-	 sprite[1] = sPlayerDown;
+	 sprite[1] = sPlayerUp;
 	 sprite[2] = sPlayerLeft;
-	 sprite[3] = sPlayerUp;
+	 sprite[3] = sPlayerDown;
  

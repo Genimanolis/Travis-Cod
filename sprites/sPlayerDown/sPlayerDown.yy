@@ -28,7 +28,7 @@
     "name": "Player",
     "path": "folders/Player.yy",
   },
-  "preMultiplyAlpha": false,
+  "preMultiplyAlpha": true,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",

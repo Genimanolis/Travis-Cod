@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Player","order":29,"path":"folders/Player.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sPufferfish","order":15,"path":"sprites/sPufferfish/sPufferfish.yy",},
