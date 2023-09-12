@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Travis Cod - TopDown Shooter",
-    "path": "Travis Cod - TopDown Shooter.yyp",
+    "name": "Player",
+    "path": "folders/Player.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayer",
-    "path": "sprites/sPlayer/sPlayer.yy",
+    "name": "sPlayerLeft",
+    "path": "sprites/sPlayerLeft/sPlayerLeft.yy",
   },
   "spriteMaskId": null,
   "visible": true,
