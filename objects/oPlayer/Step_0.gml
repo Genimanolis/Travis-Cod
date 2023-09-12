@@ -7,6 +7,7 @@ upKey =	keyboard_check(vk_up);
 
 
 //Player movement
+#region
 	//get the direction
 	var _horizKey = rightKey - leftKey;
 	var _vertKey = downKey - upKey;
@@ -36,3 +37,28 @@ upKey =	keyboard_check(vk_up);
 	// move the player
 	x += xspd;
 	y += yspd; 
+#endregion
+
+
+//player aiming 
+	centerY = y +centerYOffset;
+
+	//aim
+	aimDir = point_direction(x, centerY, mouse_x, mouse_y);
+
+//sprite control
+#region 
+	//Make sure the player is facing the right direction
+	face = round(aimDir/90);
+	if face == 4 { face = 0; };
+	
+	//animate
+	if xspd == 0 &&	yspd == 0
+	{
+		image_index = 0;	
+	}
+
+	//set the player sprite
+	mask_index = sPlayerDown;
+	sprite_index = sprite[face];
+#endregion
