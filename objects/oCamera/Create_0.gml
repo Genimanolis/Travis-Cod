@@ -1,4 +1,10 @@
-/// @description Insert description here
-// You can write your code in this editor
+camWidth = 1400;
+camHeight = 1400; // Corrected variable name
+
+follow = oPlayer;
+
+xTo = x;
+yTo = y;
+
 
 

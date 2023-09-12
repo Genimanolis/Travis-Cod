@@ -11,8 +11,8 @@
   },
   "defaultScriptType": 0,
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Player.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -39,6 +39,7 @@
     {"id":{"name":"sStorePer","path":"sprites/sStorePer/sStorePer.yy",},},
     {"id":{"name":"sPlayerUp","path":"sprites/sPlayerUp/sPlayerUp.yy",},},
     {"id":{"name":"sWallCorner","path":"sprites/sWallCorner/sWallCorner.yy",},},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"sCrab1","path":"sprites/sCrab1/sCrab1.yy",},},
     {"id":{"name":"oSwordfish","path":"objects/oSwordfish/oSwordfish.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
