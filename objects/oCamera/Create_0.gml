@@ -1,10 +1,4 @@
-camWidth = 1400;
-camHeight = 1400
-
-follow = oPlayer;
-
-xTo = x;
-yTo = y;
-
+/// @description Insert description here
+// You can write your code in this editor
 
 
