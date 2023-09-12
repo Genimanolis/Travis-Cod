@@ -1,3 +1,4 @@
+
 //get inputs
 rightKey =	keyboard_check(vk_right);
 leftKey =	keyboard_check(vk_left);
@@ -36,3 +37,7 @@ upKey =	keyboard_check(vk_up);
 	// move the player
 	x += xspd;
 	y += yspd; 
+	
+	
+
+

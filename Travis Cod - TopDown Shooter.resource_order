@@ -17,6 +17,7 @@
     {"name":"oWallCorner","order":28,"path":"objects/oWallCorner/oWallCorner.yy",},
     {"name":"sSwordfish","order":13,"path":"sprites/sSwordfish/sSwordfish.yy",},
     {"name":"sStorePer","order":17,"path":"sprites/sStorePer/sStorePer.yy",},
+    {"name":"oCamera","order":29,"path":"objects/oCamera/oCamera.yy",},
     {"name":"sWallCorner","order":27,"path":"sprites/sWallCorner/sWallCorner.yy",},
     {"name":"sCrab1","order":23,"path":"sprites/sCrab1/sCrab1.yy",},
     {"name":"oSwordfish","order":14,"path":"objects/oSwordfish/oSwordfish.yy",},

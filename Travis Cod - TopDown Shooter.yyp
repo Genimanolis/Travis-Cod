@@ -34,6 +34,7 @@
     {"id":{"name":"oWallCorner","path":"objects/oWallCorner/oWallCorner.yy",},},
     {"id":{"name":"sSwordfish","path":"sprites/sSwordfish/sSwordfish.yy",},},
     {"id":{"name":"sStorePer","path":"sprites/sStorePer/sStorePer.yy",},},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"sWallCorner","path":"sprites/sWallCorner/sWallCorner.yy",},},
     {"id":{"name":"sCrab1","path":"sprites/sCrab1/sCrab1.yy",},},
     {"id":{"name":"oSwordfish","path":"objects/oSwordfish/oSwordfish.yy",},},
