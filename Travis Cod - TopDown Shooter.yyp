@@ -39,6 +39,7 @@
     {"id":{"name":"sStorePer","path":"sprites/sStorePer/sStorePer.yy",},},
     {"id":{"name":"sPlayerUp","path":"sprites/sPlayerUp/sPlayerUp.yy",},},
     {"id":{"name":"sWallCorner","path":"sprites/sWallCorner/sWallCorner.yy",},},
+    {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"sCrab1","path":"sprites/sCrab1/sCrab1.yy",},},
     {"id":{"name":"oSwordfish","path":"objects/oSwordfish/oSwordfish.yy",},},
